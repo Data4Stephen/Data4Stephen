@@ -7,7 +7,7 @@
 
 Welcome to my GitHub repository! I'm Stephen, a data and technology professional. I am passionate about all things data analytics, automation, and product management. In this repository, I showcase some personal projects relating to a personal interest of mine: population trends in the Midwest!
 
-About Me
+About Me\n
 💼 Data analytics professional with IT product management experience
 📊 Skilled in data visualization and deriving insights from complex datasets
 🤖 Experienced in automating data reporting processes to drive efficiency
